@@ -82,7 +82,7 @@ nav h1 {
 
 nav h1 a {
   color: #fff;
-  font-size: 20pt;
+  font-size: 24pt;
   font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -164,9 +164,9 @@ nav h1 a {
   align-items: center;
   padding: 10px 0;
 }
-.filter-options h3 {
+.filter-options h2 {
   color: white;
-  font-size: 1rem;
+  font-size: 20px;
   font-weight: normal;
   line-height: 1;
   letter-spacing: 1px; 
@@ -433,6 +433,5 @@ nav h1 a {
   .inside #footer {
     width: 100%;
     padding: 20px 0;
-    max-width: 1100px;
   }
 }
