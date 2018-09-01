@@ -38,10 +38,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h3 {
   font-family: Arial, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   letter-spacing: 0;
   margin: 15px 10px;
+
   text-transform: uppercase;
 }
 
@@ -64,6 +65,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
   text-align: center;
   text-transform: uppercase;
   width: 100%;
+  max-width: 1100px;
 }
 
 /* ====================== Navigation ====================== */
@@ -162,7 +164,7 @@ nav h1 a {
   align-items: center;
   padding: 10px 0;
 }
-.filter-options h2 {
+.filter-options h3 {
   color: white;
   font-size: 1rem;
   font-weight: normal;
@@ -291,6 +293,7 @@ nav h1 a {
   top: 0;
   width: 100%;
   z-index: 1000;
+  max-width: 1100px;
 }
 .inside #map-container {
   background: #f0f0f0 none repeat scroll 0 0;
@@ -317,9 +320,10 @@ nav h1 a {
   margin: 15px 0 30px;
   text-transform: uppercase;
   line-height: 1.1;
+
 }
 #restaurant-img {
-	width: 100%;
+  width: 100%;
 }
 #restaurant-address {
   font-size: 18pt;
@@ -429,5 +433,6 @@ nav h1 a {
   .inside #footer {
     width: 100%;
     padding: 20px 0;
+    max-width: 1100px;
   }
 }
