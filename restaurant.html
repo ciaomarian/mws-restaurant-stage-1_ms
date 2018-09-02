@@ -15,6 +15,8 @@
 
 <body class="inside">
   <!-- Beginning header -->
+
+  
   <header>
     <!-- Beginning nav -->
     <nav>
@@ -35,19 +37,22 @@
 
   <!-- Beginning main -->
   <main id="maincontent">
+  
+    <!-- Beginning map -->
+    <section id="map-container" aria-labelledby="map-aria-description" role="application">
+      <div id="map"></div>
+      <label id="map-aria-description" class="map-aria-description">Mapbox map application</label>
+    </section>
+    <!-- End map -->
 
+<div class="container">
     <!-- Beginning restaurant -->
     <section id="restaurant-container">
       <h2 id="restaurant-name"></h2>
       <img id="restaurant-img">
       <p id="restaurant-cuisine"></p>
     </section>
-<!-- Beginning map -->
-<section id="map-container" aria-labelledby="map-aria-description" role="application">
-  <div id="map"></div>
-  <label id="map-aria-description" class="map-aria-description">Mapbox map application</label>
-</section>
-<!-- End map -->
+</div>
     <section id="restaurant-address-and-hours">
       <p id="restaurant-address" aria-labelledby="restaurant-address-label"></p>
       <div class="restaurant-hours-flex">
