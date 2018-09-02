@@ -1,6 +1,6 @@
 const cacheName = 'v1';
 const cacheFiles = [
-  '/'
+  '/',
   '/index.html',
   '/restaurant.html',
   '/css/styles.css',
@@ -38,14 +38,14 @@ const cacheFiles = [
               }
               else{
                   return fetch(e.request)
-                  .then(function(response{
+                  .then(function(response){
                       const responseClone = response.clone();
                       caches.open(cacheName).then(function(cache){
                           cache.put(e.request,responseClone);
                       })
                       return response;
                   })
-                  .catch(function(err{
+                  .catch(function(err){
                       console.error(err);
                   });
               }

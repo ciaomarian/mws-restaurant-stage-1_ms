@@ -136,7 +136,6 @@ nav h1 a {
 .inside #map-container {
   background: darkslategray none repeat scroll 0 0;
   height: 400px;
-  top: 150px;
 /*position: fixed;
   right: 0;
   width: 50%;
@@ -146,7 +145,7 @@ nav h1 a {
 .inside #map {
   background-color: #ccc;
   height: 100%;
-  width: 100%;s
+  width: 100%;
 }
 
 #map {
@@ -295,7 +294,6 @@ nav h1 a {
 }
 /* ====================== Restaurant Details ====================== */
 .inside header {
-  position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000;
