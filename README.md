@@ -23,8 +23,10 @@ The code I created covers Stage 1 of the Restaurant Reviews web application:
 4. Visit the site in your browser: `http://localhost:8081` to explore the app.
 5. In Chrome you can open the Console, go to Application / Service Workers, and then check the Offline option to see offline behavior.
 
-* Special thanks to Rodrick Bloomfield for your mentoring and to Doug Brown for the initial walk-through.
+* Special thanks to Rodrick Bloomfield for your mentoring and project walk-throughs. 
+* Special thanks to Doug Brown and also to M. Cranford for the initial walk-throughs.
 * Thanks also to Google and Udacity for the scholarship and my cohort for your support.
+* Tools and resources used: Visual Studio Code, GitHub, Photoshop, MDN, Udacity FEND Slack channel.
 
 
 ### Detailed Project Instructions:
