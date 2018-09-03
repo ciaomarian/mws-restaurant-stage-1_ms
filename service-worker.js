@@ -1,14 +1,12 @@
 const cacheName = 'v1';
 const cacheFiles = [
-  '/',
   '/index.html',
   '/restaurant.html',
+// '/restaurant.html?id=8',
   '/css/styles.css',
   '/js/dbhelper.js',
   '/js/main.js',
   '/js/restuarant_info.js',
-  'https://unpkg.com/leaflet@1.3.1/dist/leaflet.js',
-  'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css',
   '/data/restaurants.json',
   '/img/1.jpg',
   '/img/2.jpg',
