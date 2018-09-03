@@ -6,7 +6,7 @@ Project 5
 ## Overview
 This code covers Stage 1 of the Restaurant Reviews web application
 
-# I created: 
+* I created: 
 * A responsive grid-based layout using CSS.
 * Responsive images
 * A restaurant listings page
@@ -24,7 +24,8 @@ This code covers Stage 1 of the Restaurant Reviews web application
 4. Visit the site in your browser: `http://localhost:8081` to explore the app.
 5. In Chrome you can open the Console, go to Application / Service Workers, and then check the Offline option to see offline behavior.
 
-* Special thanks to Rodrick Bloomfield for your mentoring, and also to Google and Udacity for the scholarship. 
+* Special thanks to Rodrick Bloomfield for your mentoring and to Doug Brown for the initial walk-through.
+* Thanks also to Google and Udacity for the scholarship and my cohort for your support.
 
 
 ### Detailed Project Instructions:
