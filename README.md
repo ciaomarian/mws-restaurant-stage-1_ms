@@ -4,9 +4,8 @@ Udacity-Grow with Google Front End Developer Nanodegree
 Project 5
 
 ## Overview
-This code covers Stage 1 of the Restaurant Reviews web application
+The code I created covers Stage 1 of the Restaurant Reviews web application:
 
-* I created: 
 * A responsive grid-based layout using CSS.
 * Responsive images
 * A restaurant listings page
